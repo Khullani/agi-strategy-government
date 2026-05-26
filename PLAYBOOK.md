@@ -19,25 +19,32 @@ By Khullani M. Abdullahi, JD
 
 ## Part I — The Thesis: Why Teach to Learn and Influence
 
-You just finished BlueDot. You read more about AGI in eight weeks than most people working in government will read in a career. You can name the scaling laws debate, the difference between alignment and control, the live policy fights in Washington and Brussels and Beijing. You feel something between obligation and panic.
+You just finished BlueDot. You have read more about AGI in eight weeks than most people working in government will read in a career — the scaling laws debate, the difference between alignment and control, the live policy fights in Washington and Brussels and Beijing, the resignation letters and the system cards and the Substack posts about both. You feel something between obligation and panic.[^1]
 
 What now?
 
-The default move is to wait. Wait until your think tank publishes the paper. Wait until your boss asks for a briefing. Wait until someone in the room is qualified to convene. **None of these waits will end.** The senior people you imagine are waiting for the green light are themselves waiting for a green light from someone else. The room you are waiting to be invited into has to be built by someone, and the people who build rooms tend to be the ones who decide they are tired of waiting.
+The default move is to wait. Wait until your think tank publishes the paper. Wait until your boss asks for a briefing. Wait until someone qualified to convene the room convenes the room. The trouble is that the senior person you are imagining is also waiting — for a green light, for a working group, for a directive from the deputy of the deputy. Up the chain it goes until you arrive at the top, where you will find an empty chair. The room you are waiting to be invited into has to be built by someone, and the people who build rooms turn out to be the people who got tired of waiting.
 
-This playbook is about building the room. Not as a conference. Not as a webinar. As a five-week salon for four to six senior practitioners who are already working on the problem from different angles and who have never been in the same room together.
+This playbook is about how to be the one who got tired.
 
-The case for teaching specifically — over all the other things you could do — comes down to four things.
+Not by writing another op-ed. Not by joining the working group that has been "in formation" since 2024. By running a five-week salon for four to six senior practitioners who are already working the problem from four to six different angles and have, somehow, never been in the same room together.
 
-**You learn what you don't know.** I thought my course was about translating AGI strategy for government. By Session 4 my participants had taught me that the people I was teaching had already decided legislation was the wrong frame. I rebuilt the final session in 48 hours around non-legislative governance — procurement, standards, capital, adjacent law, choke points, civic and information levers — and that rebuild is now the strongest part of the curriculum. **You cannot get that signal from reading.** You only get it from putting senior people in a room and listening to what they actually push back on.
+Why teach, of all things?
 
-**You build standing.** Senior practitioners don't return phone calls from people they don't know. They return phone calls from people who have already done something competent in their orbit. A salon is a competence demonstration that compounds. The week after my final session, I had three of four participants offer introductions to people they thought should be in the next cohort. That doesn't happen if I had sent them a paper.
+I started my own salon thinking it was a course about translating AGI strategy for government. Within four sessions my participants had taught me that the people I thought I was teaching had already decided legislation was the wrong primary frame. I rebuilt the final session over a weekend — new readings, new deck, new framework — and that rebuild is now the strongest part of the curriculum. The lesson is the larger thesis: you cannot get that signal from reading. You get it from putting senior people in a room and listening to what they actually push back on. The room teaches you. You pay for the room with curriculum.
 
-**You create durable relationships.** Five Wednesdays is a long time. By the third session people are responding to each other, not to me. By the fifth they are introducing themselves to each other outside the salon. That is the actual artifact — not the slides, not the readings, but a small high-trust network of people who now have a way to call each other on a hard problem.
+The second thing teaching does is build standing in a register no other move builds. Senior practitioners do not return phone calls from people they do not know; they return phone calls from people who have already done something competent in their orbit. A salon is a competence demonstration that compounds — the week after my final session, three of four participants offered, unsolicited, to introduce people they thought should be in the next cohort. That does not happen if you send them a paper.[^2]
 
-**You influence by inviting, not by arguing.** This is the deepest move. When you teach, you choose the readings. You choose the framing. You choose who is in the room with whom. You set the discussion prompts. You are doing all of the work of an op-ed without ever writing one, and you are doing it in a setting where the participants leave persuaded that they thought of it themselves. That is more powerful than any single piece of writing you will produce in the same five weeks.
+The third thing is the relationships themselves. Five Wednesdays is a long time. By the third session people are responding to each other, not to me. By the fifth they are introducing themselves to each other outside the salon. The actual artifact of the course is not the slides. It is not the readings. It is a small, high-trust network of people who now have a way to call each other on a hard problem.
 
-The premise of this playbook is that a course like this is the highest-leverage civic move you can make immediately after BlueDot, **and that it works best when it is one of six things you are doing in parallel.** Part II is the rest of the portfolio. Part III onward is how to build the salon.
+The fourth and deepest thing: when you teach, you influence by inviting rather than by arguing. You choose the readings. You choose the framing. You choose who is in the room with whom. You set the discussion prompts. You are doing all of the work of an op-ed without ever writing one — and you are doing it in a setting where the participants leave persuaded that they thought of it themselves. *That* is more powerful than any single piece of writing you will produce in the same five weeks.
+
+The premise of this playbook is that a course like this is the highest-leverage civic move you can make in the months after BlueDot — and that it works best when it is one of six things you are doing in parallel.
+
+Part II is the rest of the portfolio. Part III onward is the room.
+
+[^1]: These are the only appropriate emotions, in my view. Anything calmer should be examined for evidence of repression.
+[^2]: I have sent many papers. The reply rate is, generously, between three and seven percent. The reply rate when I have just run a five-week salon someone has heard about is meaningfully higher — not because the participants are doing me a favor, but because they now have a fresh data point on whether I am a person whose paper is worth opening.
 
 ---
 
