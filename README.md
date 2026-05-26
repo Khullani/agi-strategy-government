@@ -30,6 +30,7 @@ It also sits inside a larger argument: teaching a course is one of six things yo
 | [`templates/reading-list-format.md`](./templates/reading-list-format.md) | How I structured every reading entry |
 | [`templates/facilitator-guide-template.md`](./templates/facilitator-guide-template.md) | The internal run-of-show document for each session |
 | [`templates/tabletop-exercise-template.md`](./templates/tabletop-exercise-template.md) | The role-assigned tabletop format that worked |
+| [`CHANGELOG.md`](./CHANGELOG.md) | Running record of cohorts and revisions |
 
 ## License
 
